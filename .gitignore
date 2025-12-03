@@ -1,0 +1,9 @@
+# Ignore secret environment variables
+.env
+
+# Ignore CSV database/history logs
+suvichar_generator/suvichar_history.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
